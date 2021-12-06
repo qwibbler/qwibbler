@@ -13,7 +13,7 @@
 
 ## ![](http://sr.photos2.fotosearch.com/bthumb/CSP/CSP992/k14235676.jpg) My Latest Project
 
-### [To Do List](https://qwibbler.github.io/todo-list/)
+### [To Do List](https://qwibbler.github.io/todo-list/dist/)
 A website where you can list all the things you're positive you will eventually get around to doing... (maybe... 😜)
 [<img src="https://github.com/qwibbler/todo-list/blob/main/Screenshot.png">](https://qwibbler.github.io/todo-list/)
 
