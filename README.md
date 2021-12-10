@@ -24,20 +24,35 @@ Contact me at:
 A website where you can list all the things you're positive you will eventually get around to doing... (maybe... 😜)
 [<img src="https://github.com/qwibbler/todo-list/blob/main/Screenshot.png" width="500">](https://qwibbler.github.io/todo-list/)
 
----
 ### [To see all my projects, click here.<img src="https://t3.ftcdn.net/jpg/00/36/59/32/160_F_36593253_QsYASC8u4ZpwhdCFqU1innOVZtktNaLd.jpg" width="40">](https://github.com/qwibbler/my-portfolio)
----
 
 ## My Stats <img src="https://www.myzone.org/hs-fs/hubfs/Myzone_August2019/icons/nps-score.png" width="70">
-<sup>[Stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra) https://github.com/anuraghazra/github-readme-stats</sup>
 
 <a href="https://github.com/qwibbler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qwibbler&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwibbler&theme=buefy&layout=compact" />
 </a>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=qwibbler.visitor-badge&left_color=purple&right_color=blue&left_text=Hello%20Visitors!)
+<details>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=qwibbler&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&fire=FF9041&stroke=E362D6&ring=A13AA3&dates=B545B2&sideNums=B545B2&currStreakNum=DD2BD4&currStreakLabel=DD2BD4)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=qwibbler&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=qwibbler&bg_color=white)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=qwibbler.visitor-badge&left_color=purple&right_color=blue&left_text=Hello%20Visitors!)
+</details>
+
+---
+##### Acknowledgements
+
+[<img src="https://img.shields.io/badge/Stats-anuraghazra-blueviolet">](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://img.shields.io/badge/Streak-denvercoder1-blue">](https://github.com/denvercoder1/github-readme-streak-stats)
+[<img src="https://img.shields.io/badge/Trophies-ryo--ma-blueviolet">](https://github.com/ryo-ma/github-profile-trophy)
+[<img src="https://img.shields.io/badge/Graph-Ashutosh00710-blue">](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
 
 <!--
 **qwibbler/qwibbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
