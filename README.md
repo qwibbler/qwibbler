@@ -2,11 +2,11 @@
 
 # Hi <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/hi.gif" width="30"> I'm Humaira Zaman!
 <img align='right' src="https://foundr.com/wp-content/uploads/2018/01/order-fulfillment-ecommerce-foundr-blog.jpg" width="230">
-<p>I'm a Remote Full Stack developer, looking for fullfillment</p>
+<p>I'm a remote Full Stack developer, looking for fullfillment.</p>
 
-- <img src="https://icons.iconarchive.com/icons/xenatt/minimalism/256/App-Twitter-icon.png" width="20"> [@hmemaz](https://twitter.com/hmemaz)   
-- <img src="https://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/128x128/Linkedin-Icon.png" width="20"> [Humaira Zaman](https://www.linkedin.com/in/hmemaz1994/)   
-- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/AngelList_logo.svg/100px-AngelList_logo.svg.png" height="20"> [.Humaira Zaman](https://angel.co/u/humaira-zaman)
+[<img src="https://img.shields.io/badge/-%40hmemaz-1DA1F2?logo=twitter&logoColor=white&style=plastic">](https://twitter.com/hmemaz) 
+[<img src="https://img.shields.io/badge/-Humaira%20Zaman-0A66C2?logo=LinkedIn&logoColor=white&style=plastic">](https://www.linkedin.com/in/hmemaz1994/)
+[<img src="https://img.shields.io/badge/-Humaira%20Zaman-white?logo=AngelList&logoColor=black&style=plastic">](https://angel.co/u/humaira-zaman)
 
 ## About ![Me](./about-ME-small-slow.gif)
 
