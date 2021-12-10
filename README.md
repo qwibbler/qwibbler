@@ -1,3 +1,5 @@
+<img src="https://github.com/qwibbler/qwibbler/blob/main/Humaira%20Zaman.png">
+
 # Hi <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/hi.gif" width="30"> I'm Humaira Zaman!
 <img align='right' src="https://foundr.com/wp-content/uploads/2018/01/order-fulfillment-ecommerce-foundr-blog.jpg" width="230">
 <p>I'm a Remote Full Stack developer, looking for fullfillment</p>
@@ -21,11 +23,12 @@ A website where you can list all the things you're positive you will eventually 
 ## My Stats <img src="https://www.myzone.org/hs-fs/hubfs/Myzone_August2019/icons/nps-score.png" width="70">
 <sup>[Stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra) https://github.com/anuraghazra/github-readme-stats</sup>
 
-[![Zaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwibbler&count_private=true&show_icons=true) ](https://github.com/qwibbler/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwibbler)](https://github.com/qwibbler/github-readme-stats)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwibbler&layout=compact)](https://github.com/qwibbler/github-readme-stats)   -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=qwibbler.visitor-badge&left_color=purple&right_color=blue&left_text=Hello%20Visitors!)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qwibbler&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwibbler&theme=buefy&layout=compact" />
+</a>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=qwibbler.visitor-badge&left_color=purple&right_color=blue&left_text=Hello%20Visitors!)
 
 
 <!--
