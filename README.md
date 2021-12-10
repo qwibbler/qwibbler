@@ -6,7 +6,7 @@
 - <img src="https://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/128x128/Linkedin-Icon.png" width="20"> [Humaira Zaman](https://www.linkedin.com/in/hmemaz1994/)   
 - <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/AngelList_logo.svg/100px-AngelList_logo.svg.png" height="20"> [.Humaira Zaman](https://angel.co/u/humaira-zaman)
 
-## About ![Me](./about-ME-small.gif)
+## About ![Me](./about-ME-small-slow.gif)
 
 - Experience: ![](./fullstack-small.png) Full-Stack;
 - Languages: <img src="https://thumbs.dreamstime.com/t/programming-languages-set-icons-vector-illustration-design-programming-languages-set-icons-110589824.jpg" width="20"> Html/Css/Javascript, Bootstrap;
