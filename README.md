@@ -23,7 +23,7 @@ A website where you can list all the things you're positive you will eventually 
 ## My Stats <img src="https://www.myzone.org/hs-fs/hubfs/Myzone_August2019/icons/nps-score.png" width="70">
 <sup>[Stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra) https://github.com/anuraghazra/github-readme-stats</sup>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/qwibbler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qwibbler&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwibbler&theme=buefy&layout=compact" />
 </a>
