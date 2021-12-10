@@ -12,11 +12,15 @@
 - Languages: <img src="https://thumbs.dreamstime.com/t/programming-languages-set-icons-vector-illustration-design-programming-languages-set-icons-110589824.jpg" width="20"> Html/Css/Javascript, Bootstrap;
 - Hobbies: <img src="https://www.bookwormlibrary.us/graphics/bworm1.gif" width="30"> Curling up with a good book in a warm blanket on a cold night;
 
-## ![](http://sr.photos2.fotosearch.com/bthumb/CSP/CSP992/k14235676.jpg) My Latest Project
+## <img src="http://sr.photos2.fotosearch.com/bthumb/CSP/CSP992/k14235676.jpg" width="70"> My Latest Project
 
 ### [To Do List](https://qwibbler.github.io/todo-list/dist/)
 A website where you can list all the things you're positive you will eventually get around to doing... (maybe... 😜)
-[<img src="https://github.com/qwibbler/todo-list/blob/main/Screenshot.png">](https://qwibbler.github.io/todo-list/)
+[<img src="https://github.com/qwibbler/todo-list/blob/main/Screenshot.png" width="500">](https://qwibbler.github.io/todo-list/)
+
+## My Stats <img src="https://www.myzone.org/hs-fs/hubfs/Myzone_August2019/icons/nps-score.png" width="70">
+
+[![Zaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwibbler)](https://github.com/qwibbler/github-readme-stats)
 
 <!--
 **qwibbler/qwibbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
