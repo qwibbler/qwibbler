@@ -2,8 +2,9 @@
 <img align='right' src="https://foundr.com/wp-content/uploads/2018/01/order-fulfillment-ecommerce-foundr-blog.jpg" width="230">
 <p>I'm a Remote Full Stack developer, looking for fullfillment</p>
 
-<img src="https://icons.iconarchive.com/icons/xenatt/minimalism/256/App-Twitter-icon.png" width="20"> [@hmemaz](https://twitter.com/hmemaz)   
-<img src="https://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/128x128/Linkedin-Icon.png" width="20"> [Humaira Zaman](https://www.linkedin.com/in/hmemaz1994/)
+- <img src="https://icons.iconarchive.com/icons/xenatt/minimalism/256/App-Twitter-icon.png" width="20"> [@hmemaz](https://twitter.com/hmemaz)   
+- <img src="https://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/128x128/Linkedin-Icon.png" width="20"> [Humaira Zaman](https://www.linkedin.com/in/hmemaz1994/)   
+- <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/28/AngelList_logo.svg/100px-AngelList_logo.svg.png" height="20"> [.Humaira Zaman](https://angel.co/u/humaira-zaman)
 
 ## About ![Me](./about-ME-small.gif)
 
