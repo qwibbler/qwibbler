@@ -19,8 +19,14 @@ A website where you can list all the things you're positive you will eventually 
 [<img src="https://github.com/qwibbler/todo-list/blob/main/Screenshot.png" width="500">](https://qwibbler.github.io/todo-list/)
 
 ## My Stats <img src="https://www.myzone.org/hs-fs/hubfs/Myzone_August2019/icons/nps-score.png" width="70">
+<sup>[Stats](https://github.com/anuraghazra/github-readme-stats) by [anuraghazra](https://github.com/anuraghazra) https://github.com/anuraghazra/github-readme-stats</sup>
 
-[![Zaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwibbler)](https://github.com/qwibbler/github-readme-stats)
+[![Zaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=qwibbler&count_private=true&show_icons=true) ](https://github.com/qwibbler/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwibbler)](https://github.com/qwibbler/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwibbler&layout=compact)](https://github.com/qwibbler/github-readme-stats)   -->
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=qwibbler.visitor-badge&left_color=purple&right_color=blue&left_text=Hello%20Visitors!)
+
+
 
 <!--
 **qwibbler/qwibbler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
