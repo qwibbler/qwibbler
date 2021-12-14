@@ -2,11 +2,13 @@
 
 # Hi <img src="http://static.skaip.org/img/emoticons/180x180/f6fcff/hi.gif" width="30"> I'm Humaira Zaman!
 <img align='right' src="https://foundr.com/wp-content/uploads/2018/01/order-fulfillment-ecommerce-foundr-blog.jpg" width="230">
-I'm a remote Full-stack Developer, looking for a challenge.
+I love learning new skills - no matter what it is. That's how I ended up trilingual, with an A-level degree in the Sciences and Math, an Alima degree in Fiqh (Islamic Jurisprudence), and a bit more than a nodding acquaintance with Python and Data Science. 
+
+Now I'm a remote Full-stack Developer, looking for more challenges and new things to learn. After all, a good student never stops learning.
 
 Contact me at:
 
-[<img src="https://img.shields.io/badge/-Humaira%20Zaman-EA4335?logo=Gmail&logoColor=white&style=plastic">](hmemaz@gmail.com)
+[<img src="https://img.shields.io/badge/-hmemaz@gmail.com-EA4335?logo=Gmail&logoColor=white&style=plastic">](hmemaz@gmail.com)
 [<img src="https://img.shields.io/badge/-Humaira%20Zaman-0A66C2?logo=LinkedIn&logoColor=white&style=plastic">](https://www.linkedin.com/in/hmemaz1994/)
 [<img src="https://img.shields.io/badge/-%40hmemaz-1DA1F2?logo=twitter&logoColor=white&style=plastic">](https://twitter.com/hmemaz) 
 [<img src="https://img.shields.io/badge/-Humaira%20Zaman-white?logo=AngelList&logoColor=black&style=plastic">](https://angel.co/u/humaira-zaman)
@@ -15,8 +17,9 @@ Contact me at:
 
 - Portfolio: <img src="http://sr.photos1.fotosearch.com/bthumb/CSP/CSP677/k21578258.jpg" width="20"> [My Portfolio](https://github.com/qwibbler/my-portfolio)
 - Experience: ![](./fullstack-small.png) Full-stack;
-- Languages: <img src="https://thumbs.dreamstime.com/t/programming-languages-set-icons-vector-illustration-design-programming-languages-set-icons-110589824.jpg" width="20"> Html/Css/Javascript, Bootstrap;
+- Languages: <img src="https://thumbs.dreamstime.com/t/programming-languages-set-icons-vector-illustration-design-programming-languages-set-icons-110589824.jpg" width="20"> Html/Css/Javascript, Bootstrap, Python;
 - Hobbies: <img src="https://www.bookwormlibrary.us/graphics/bworm1.gif" width="30"> Curling up with a good book in a warm blanket on a cold night;
+- Location: <img src="https://powerobjects.com/wp-content/uploads/2016/08/PowerMap.png" width="20"> Pakistan
 
 ## <img src="http://sr.photos2.fotosearch.com/bthumb/CSP/CSP992/k14235676.jpg" width="70"> My Latest Project
 
