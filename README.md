@@ -15,7 +15,7 @@ Contact me at:
 
 ## About ![Me](./about-ME-small-slow.gif)
 
-- Portfolio: <img src="http://sr.photos1.fotosearch.com/bthumb/CSP/CSP677/k21578258.jpg" width="20"> [My Portfolio](https://github.com/qwibbler/my-portfolio)
+- Portfolio: <img src="http://sr.photos1.fotosearch.com/bthumb/CSP/CSP677/k21578258.jpg" width="20"> [My Portfolio](https://qwibbler.github.io/my-portfolio/)
 - Experience: ![](./fullstack-small.png) Full-stack;
 - Languages: <img src="https://thumbs.dreamstime.com/t/programming-languages-set-icons-vector-illustration-design-programming-languages-set-icons-110589824.jpg" width="20"> Html/Css/Javascript, Bootstrap, Python;
 - Hobbies: <img src="https://www.bookwormlibrary.us/graphics/bworm1.gif" width="30"> Curling up with a good book in a warm blanket on a cold night;
@@ -27,7 +27,7 @@ Contact me at:
 This is a website showing all the top players in a game. This repo is to practice the use of callbacks and promises, to learn how to use proper ES6 syntax, to use ES6 modules to write modular JavaScript and to practice using webpack to bundle JavaScript. 
 [<img src="https://github.com/qwibbler/leaderboard/blob/wireframe/Screenshot2.png" width="500">](https://qwibbler.github.io/todo-list/)
 
-### [To see all my projects, click here.<img src="https://t3.ftcdn.net/jpg/00/36/59/32/160_F_36593253_QsYASC8u4ZpwhdCFqU1innOVZtktNaLd.jpg" width="40">](https://github.com/qwibbler/my-portfolio)
+### [To see all my projects, click here.<img src="https://t3.ftcdn.net/jpg/00/36/59/32/160_F_36593253_QsYASC8u4ZpwhdCFqU1innOVZtktNaLd.jpg" width="40">](https://qwibbler.github.io/my-portfolio/)
 
 ## My Stats <img src="https://www.myzone.org/hs-fs/hubfs/Myzone_August2019/icons/nps-score.png" width="70">
 
