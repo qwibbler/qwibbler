@@ -25,7 +25,7 @@ Contact me at:
 
 ### [Leaderboard](https://qwibbler.github.io/leaderboard/dist/)
 This is a website showing all the top players in a game. This repo is to practice the use of callbacks and promises, to learn how to use proper ES6 syntax, to use ES6 modules to write modular JavaScript and to practice using webpack to bundle JavaScript. 
-[<img src="https://github.com/qwibbler/leaderboard/blob/wireframe/Screenshot2.png" width="500">](https://qwibbler.github.io/todo-list/)
+[<img src="https://github.com/qwibbler/leaderboard/blob/wireframe/Screenshot.png" width="500">](https://qwibbler.github.io/todo-list/)
 
 ### [To see all my projects, click here.<img src="https://t3.ftcdn.net/jpg/00/36/59/32/160_F_36593253_QsYASC8u4ZpwhdCFqU1innOVZtktNaLd.jpg" width="40">](https://qwibbler.github.io/my-portfolio/)
 
