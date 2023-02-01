@@ -9,7 +9,7 @@ Now I'm a remote Full-stack Developer, looking for more challenges and new thing
 Contact me at:
 
 [<img src="https://img.shields.io/badge/-hmemaz@gmail.com-EA4335?logo=Gmail&logoColor=white&style=plastic">](hmemaz@gmail.com)
-[<img src="https://img.shields.io/badge/-Humaira%20Zaman-0A66C2?logo=LinkedIn&logoColor=white&style=plastic">]( www.linkedin.com/in/humaira-zaman/)
+[<img src="https://img.shields.io/badge/-Humaira%20Zaman-0A66C2?logo=LinkedIn&logoColor=white&style=plastic">](https://www.linkedin.com/in/humaira-zaman/)
 [<img src="https://img.shields.io/badge/-%40hmemaz-1DA1F2?logo=twitter&logoColor=white&style=plastic">](https://twitter.com/hmemaz) 
 [<img src="https://img.shields.io/badge/-Humaira%20Zaman-white?logo=AngelList&logoColor=black&style=plastic">](https://angel.co/u/humaira-zaman)
 
